@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Permission Helper</string>
+
+    <string name="grant_button_text">Grant</string>
+    <string name="deny_button_text">Deny</string>
+    <string name="deny_message">If you deny permission, you will not be able to use this service.\n\nGrant the permissions in [Settings] > [Permissions].</string>
+    <string name="denied_close_button_text">Close</string>
+    <string name="setting_button_text">Setting</string>
+</resources>
